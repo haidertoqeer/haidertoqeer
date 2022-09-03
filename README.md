@@ -6,7 +6,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer.
+Senior Front end developer | UX / UI at Pace Technologies (Pvt)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -31,3 +31,7 @@ I am a Full Stack Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+
+<h3>Sponsor Me🤝🏽</h3>
+        <a href="https://www.buymeacoffee.com/haidertoqeer"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
