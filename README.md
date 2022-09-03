@@ -12,7 +12,8 @@ Senior Front end developer | UX / UI at Pace Technologies (Pvt)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-haidertoqeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haidertoqeer/)
 
- 💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+### 💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+ 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
