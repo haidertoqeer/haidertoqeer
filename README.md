@@ -12,6 +12,7 @@ Senior Front end developer | UX / UI at Pace Technologies (Pvt)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-haidertoqeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haidertoqeer/)
 
+ 💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -32,8 +33,3 @@ Senior Front end developer | UX / UI at Pace Technologies (Pvt)
 <h3>Sponsor Me🤝🏽</h3>
         <a href="https://www.buymeacoffee.com/haidertoqeer"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
 
-  ---
-  
-  <h4>
-     💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
-  </h4>
