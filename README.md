@@ -1,4 +1,4 @@
-### 👋 Hi there, Am [@haidertoqeer](https://twitter.com/ToqeerHaider)
+### 👋 Hi there, I am [@haidertoqeer](https://twitter.com/ToqeerHaider)
 ---
 
 ### :man_technologist: About Me :
