@@ -4,7 +4,7 @@
 ### :man_technologist: About Me :
 Senior Front-End Developer | UX / UI at Pace Technologies (Pvt)
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Javascript framework.
 
