@@ -9,7 +9,7 @@ Senior Front-End Developer | UX  UI at Pace Technologies (Pvt)
 
 - :zap: In my free time, I watch movies and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-haidertoqeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haidertoqeer/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-haidertoqeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haidertoqeer/)
 
 ### 💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
  
