@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am [@haidertoqeer](https://twitter.com/ToqeerHaider) 
 ---
 ### Let's talk About Me 
-Senior Front-End Developer | UX  UI at Pace Technologies (Pvt.)
+Senior Front-End Developer | UX  UI at Pace Technologies (Pvt)
 ---
 - :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -15,7 +15,7 @@ Senior Front-End Developer | UX  UI at Pace Technologies (Pvt.)
  
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
