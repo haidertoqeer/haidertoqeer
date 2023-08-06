@@ -1,4 +1,4 @@
-### 👋 Hi there, I am [@haidertoqeer](https://twitter.com/ToqeerHaider) 
+### 👋 Hi there, I am [@haidertoqeer](https://www.linkedin.com/in/haidertoqeer/) 
 ---
 ### Let's talk About Me 
 Senior Front-End Developer | UX  UI at Pace Technologies (Pvt)
