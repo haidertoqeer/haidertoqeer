@@ -5,7 +5,7 @@ Senior Front-End Developer | UX  UI at Pace Technologies (Pvt.)
 --- 
 - :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Javascript framework..
+- :seedling: Exploring Javascript framework.
 
 - :zap: In my free time, I watch movies and read tech articles.
 
