@@ -7,7 +7,7 @@ Senior Front-End Developer | UX  UI at Pace Technologies (Pvt)
 
 - :seedling: Exploring Javascript framework..
 
-- :zap: In my free time, I watch movies and read tech articles.
+- :zap: In my free time, I watch movies and read tech articles..
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-haidertoqeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haidertoqeer/)
 
