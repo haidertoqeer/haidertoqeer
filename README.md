@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am [@haidertoqeer](https://www.linkedin.com/in/haidertoqeer/) 
 ---
 ### Let's talk About Me 
-Senior Front-End Developer | UX  UI at Pace Technologies (Pvt.) 
+Senior Front-End Developer | Laravel Backend Developer | Analytics Dashboard Pro | UX  UI | Passionate about Health Tech at Pace Technologies (Pvt.) 
 --- 
 - :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications.
 
