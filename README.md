@@ -8,6 +8,10 @@ Beyond technical proficiency, my collaborative 𝗻𝗮𝘁𝘂𝗿𝗲 𝘀𝗲
 
 #### 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
 
+##### 𝐉̳𝐚̳𝐯̳𝐚̳𝐒̳𝐜̳𝐫̳𝐢̳𝐩̳𝐭̳ ̳𝐌̳𝐚̳𝐬̳𝐭̳𝐞̳𝐫̳𝐲̳:̳
+
+Advanced knowledge of JavaScript, ensuring the implementation of intricate and 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘄𝗲𝗯 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 that meet the highest standards.
+
 ##### 𝐑̳𝐞̳𝐚̳𝐜̳𝐭̳𝐉̳𝐒̳ ̳𝐄̳𝐱̳𝐩̳𝐞̳𝐫̳𝐭̳𝐢̳𝐬̳𝐞̳:̳
 
 Proficient in ReactJS, with a focus on developing dynamic and 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀 that elevate the overall user experience.
@@ -20,9 +24,6 @@ Experienced in creating Dashboards to provide comprehensive insights, 𝗲𝗻�
 
 Skilled in Laravel, contributing to the development of robust back-end systems that 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗵𝗲 𝘀𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗶𝗻𝗴 of web applications.
 
-##### 𝐉̳𝐚̳𝐯̳𝐚̳𝐒̳𝐜̳𝐫̳𝐢̳𝐩̳𝐭̳ ̳𝐌̳𝐚̳𝐬̳𝐭̳𝐞̳𝐫̳𝐲̳:̳
-
-Advanced knowledge of JavaScript, ensuring the implementation of intricate and 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘄𝗲𝗯 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 that meet the highest standards.
 
 ##### 𝐏̳𝐫̳𝐨̳𝐣̳𝐞̳𝐜̳𝐭̳ ̳𝐌̳𝐚̳𝐧̳𝐚̳𝐠̳𝐞̳𝐦̳𝐞̳𝐧̳𝐭̳:̳
 Demonstrated ability to manage projects effectively, ensuring timely delivery and 𝗺𝗲𝗲𝘁𝗶𝗻𝗴 𝗰𝗹𝗶𝗲𝗻𝘁 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀. Bringing a 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵 to project planning and execution.
