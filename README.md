@@ -8,6 +8,7 @@ Beyond technical proficiency, my collaborative 𝗻𝗮𝘁𝘂𝗿𝗲 𝘀𝗲
 
 #### 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
 
+
 ##### 𝐉̳𝐚̳𝐯̳𝐚̳𝐒̳𝐜̳𝐫̳𝐢̳𝐩̳𝐭̳ ̳𝐌̳𝐚̳𝐬̳𝐭̳𝐞̳𝐫̳𝐲̳:̳
 
 Advanced knowledge of JavaScript, ensuring the implementation of intricate and 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘄𝗲𝗯 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 that meet the highest standards.
