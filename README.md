@@ -9,7 +9,6 @@ Seasoned 𝐒𝐞𝐧𝐢𝐨𝐫 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯�
 Beyond technical proficiency, my collaborative 𝗻𝗮𝘁𝘂𝗿𝗲 𝘀𝗲𝗮𝗺𝗹𝗲𝘀𝘀𝗹𝘆 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝘀 𝘄𝗶𝘁𝗵 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗧𝗲𝗮𝗺𝘀, contributing to the creation of robust and scalable 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀. I specialize in utilizing the 𝗔𝗱𝗼𝗯𝗲 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗦𝘂𝗶𝘁𝗲 to enhance design and visual elements, ensuring a comprehensive approach to 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 
 #### 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
-
 ##### 𝐉̳𝐚̳𝐯̳𝐚̳𝐒̳𝐜̳𝐫̳𝐢̳𝐩̳𝐭̳ ̳𝐌̳𝐚̳𝐬̳𝐭̳𝐞̳𝐫̳𝐲̳:̳
 
 Advanced knowledge of JavaScript, ensuring the implementation of intricate and 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝘄𝗲𝗯 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 that meet the highest standards.
