@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am [@haidertoqeer](https://www.linkedin.com/in/haidertoqeer/) 
 ---
-### Let's talk 
+
 
 
 ### Senior Front-End Developer | Laravel Backend Developer | Analytics Dashboard Specialist | UX/UI Expert | Health Tech Enthusiast
